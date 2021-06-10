@@ -127,6 +127,10 @@
 }
 
 /*--- form part ---*/
+.alert {
+  color: #dd4b39;
+}
+
 .form-content {
   margin-top: 20px;
 }
